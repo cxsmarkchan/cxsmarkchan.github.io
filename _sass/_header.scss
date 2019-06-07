@@ -29,6 +29,7 @@
     
     .page-link{
         line-height: $line-height;
+        text-transform: uppercase;
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 10px;
