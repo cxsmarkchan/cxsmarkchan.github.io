@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Xiaoshuang</strong> Chen
-description: Ph.D. Candidate, Department of Electrical Engineering, Tsinghua University.
+description: Senior researcher, Tencent Inc.
 
 profile:
   align: left
@@ -12,11 +12,11 @@ news: true
 social: true
 ---
 
-I received my Bachelor's degree from Tsinghua University in July 2014, and I am currently a Ph.D. candidate with Department of Electrical Engineering, Tsinghua University (supervised by Profs. Yonghua Song and Jin Lin).  I am also a research intern at Tencent for recommender systems, and will join Tencent after graduation.
+I am currently a senior researcher at Tencent Incorporation for recommender systems. I received my Ph.D. degree in electrical engineering from Tsinghua University in Jul. 2019(supervised by Profs. Yonghua Song and Jin Lin), and Bachelor's degree in electrical engineering from the same university in Jul. 2014. 
 
 My research interests include machine learning and optimization techniques. My Ph.D. work mainly focused on stochastic optimization techniques and their applications to electric power systems. Currently, I have been focusing more on machine learning techniques, especially online learning and recommender systems.
 
-Address: 9-305, East Main Building, Tsinghua University, Beijing 100084, China
+Address: Linghang Building, Haidian District, Beijing 100084, China
 
 E-mail: cxsmarkchan AT 163 DOT com
 
